@@ -1,0 +1,37 @@
+@charset "UTF-8";
+body {
+  font-family: Georgia, serif;
+  font-size: 100%;
+  background-color: lightsteelblue;
+  margin: 0;
+}
+html {
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+
+/* link styles */
+
+
+/* header styles */
+header {
+  color: white;
+  background-size: cover; 
+  text-align: center;
+  height: 15em;
+}
+
+header h1 {
+    font-family: 'Georgia', cursive;
+     margin-top: 1.5em;
+}
+
+/* nav styles */
+
+
+/* main "products" styles */
+
+
+
