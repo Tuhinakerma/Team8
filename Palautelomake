@@ -1,0 +1,8 @@
+<form>
+    Nimesi:<br><input type="text" name="realname"><br>
+    Sähköpostiosoitteesi:<br><input type="text" name="email">
+    <br>Mitä mielessä:<br>
+    <textarea name="asiasi" rows="10" cols="50">
+    </textarea> <br>
+    <input type="submit" value="Lähetä">
+</form>
